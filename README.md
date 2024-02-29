@@ -8,4 +8,4 @@ Name: Ruth Johana Hutagalung
 Program: IBM Advanced AI
 ### :robot: Tech Stack:
 - JupyterLab 
-- Python
+- Jupyter Notebook
